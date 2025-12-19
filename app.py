@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Meu primeiro app em Streamlit")
+st.title("Meu app online 🎉")
 
 st.write("Se você está vendo isso, Python está rodando na web 🙂")
 
